@@ -1,11 +1,6 @@
-# my-princess.github.io
-<html>
-<head>
-	<title>be1.ru</title>
 </head>
 <body>
-<p>&lt;p&gt;Принцесса,я тебя люблю&lt;p&gt;</p>
-
-<p>&lt;p&gt;пожалуйста не оставляй меня&lt;p&gt;</p>
+Принцесса,я тебя люблю
+пожалуйста не оставляй меня
 </body>
 </html>
